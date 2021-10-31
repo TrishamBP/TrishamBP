@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrishamBP
-- 👀 I’m interested in Finite Element Analysis and Deep Learning
+- 👀 I’m interested in CFD Modelling, Finite Element Analysis and Deep Learning
 - 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on any related projects
+- 💞️ I’m looking to collaborate on projects related to CFD and FEA.
 - 📫 How to reach me trishampatil@gmail.com
 
 <!---
