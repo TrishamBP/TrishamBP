@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TrishamBP
-- 👀 I’m interested in CFD Modelling, Finite Element Analysis and Deep Learning
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on projects related to CFD and FEA.
+- 👀 I am interested in Blockchain Dvelopment especially Smart Contratcs Development.
+- 🌱 I've just started learning Blockchain programming.
+- 💞️ I’m looking to collaborate on projects or help on advancing my blockchain career.
 - 📫 How to reach me trishampatil@gmail.com
 
 <!---
