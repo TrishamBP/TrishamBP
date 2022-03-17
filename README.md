@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrishamBP
-- 👀 I am interested in Blockchain Dvelopment especially Smart Contratcs Development.
-- 🌱 I've just started learning Blockchain programming.
+- 👀 Web App and Blockchain Developer.
+- 🌱 Working on creating web pages and dAPP's.
 - 💞️ I’m looking to collaborate on projects or help on advancing my blockchain career.
 - 📫 How to reach me trishampatil@gmail.com
 
