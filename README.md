@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrishamBP
+- 👋 Hi, I’m Trisham Bharat Patil @TrishamBP.
 - 👀 Web App and Blockchain Developer.
 - 🌱 Working on creating web pages and dAPP's.
 - 💞️ I’m looking to collaborate on projects or help on advancing my blockchain career.
