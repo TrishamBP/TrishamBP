@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 - 👋 Hi, I’m Trisham Bharat Patil @TrishamBP.
 - 👀 Web App and Blockchain Developer.
 - 🌱 Working on creating web pages and dAPP's.
