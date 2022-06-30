@@ -1,5 +1,5 @@
 👋 Hi, I’m Trisham Bharat Patil @TrishamBP, I am currently learning full stack web development to be a👀 Web App and Blockchain Developer.
-📫 How to reach me trishampatil@gmail.com
+
  
  
  
