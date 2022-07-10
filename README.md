@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab"/>
 <img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
 
 </p>
