@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-Eclipse IDE-E34A86?style=flat-square&logo=eclipse"/>
 <img src="https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab"/>
 <img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
