@@ -1,4 +1,4 @@
-👋 Hi, I’m Trisham Bharat Patil @TrishamBP, I am currently learning full stack web development to be a👀 Web App and Blockchain Developer.
+👋 Hi, I’m Trisham Bharat Patil, I learning to be a Full Stack Web Developer and gradually a Blockchain Developer.
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
