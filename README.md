@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
-<img src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium"/>
-
 
 </p>
 <h2 align="center">
