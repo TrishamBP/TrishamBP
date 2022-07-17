@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
+
 <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Eclipse IDE-E34A86?style=flat-square&logo=eclipse"/>
