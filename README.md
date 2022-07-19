@@ -18,8 +18,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
-<img src="https://img.shields.io/badge/-Docker-FFF9CA?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-Kubernetes-FFF9CA?style=flat-square&logo=kubernetes"/>
+
 
 
  
