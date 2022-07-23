@@ -36,6 +36,8 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrishamBP&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  ![](https://raw.githubusercontent.com/TrishamBP/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/TrishamBP/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </p>
 
 <p align = "center">
