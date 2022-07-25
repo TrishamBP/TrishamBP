@@ -1,6 +1,6 @@
 👋 Hi, I’m Trisham Bharat Patil, I am learning to be a Full Stack Web Developer and eventually a Blockchain Developer.
-LinkedIn-https://www.linkedin.com/in/trishampatil/
-LeetCode-https://leetcode.com/TrishamBP/
+<p>LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
+<p>LeetCode- https://leetcode.com/TrishamBP/</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
