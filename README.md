@@ -45,10 +45,6 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=TrishamBP&theme=redical">
-</p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
