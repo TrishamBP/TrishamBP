@@ -11,11 +11,10 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=node"/>
-<img src="https://img.shields.io/badge/-Express JS-black?style=flat-square&logo=express"/>
+
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
-
 <img src="https://img.shields.io/badge/-Eclipse IDE-E34A86?style=flat-square&logo=eclipse"/>
 <img src="https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab"/>
 <img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity"/>
