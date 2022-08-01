@@ -10,9 +10,9 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=nodejs"/>
- <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/-Mongo DB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=nodejs"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
@@ -23,25 +23,20 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
-
- 
 </p>
-
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- 
 <br>
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrishamBP&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
- <img  src = "[https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27]
+  <img  src = "[https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27]
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
