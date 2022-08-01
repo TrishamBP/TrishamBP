@@ -10,8 +10,9 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=node"/>
 <img src="https://img.shields.io/badge/-Express JS-black?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=node"/>
+
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
