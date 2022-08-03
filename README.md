@@ -24,6 +24,7 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
+<img src="https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose"/>
 </p>
 
 <h2 align="center">
