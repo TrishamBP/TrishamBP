@@ -23,6 +23,7 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/-REST API-black?style=flat-square&logo=rest"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
 </p>
 
