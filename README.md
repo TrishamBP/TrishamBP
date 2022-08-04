@@ -7,8 +7,8 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=cpp"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Mongo DB-495C83?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Express-495C83?style=flat-square&logo=express"/>
