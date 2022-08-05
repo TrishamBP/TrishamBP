@@ -1,5 +1,5 @@
 👋 Hi, I’m Trisham Bharat Patil, I am learning to be a Full Stack Web Developer and eventually a Blockchain Developer.
-<p>Portfolio- https://trishambp-portfolio.netlify.app/<br>
+<p>Portfolio- https://trishambp-portfolio.netlify.app /<br>
 LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
