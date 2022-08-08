@@ -30,6 +30,7 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-REST API-black?style=flat-square&logo=rest"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
+<img src="https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha"/>
 
 </p>
 
