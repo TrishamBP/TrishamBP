@@ -14,13 +14,9 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery"/>
 <img src="https://img.shields.io/badge/-Mongo DB-495C83?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-Express-495C83?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/-React JS-495C83?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Node JS-495C83?style=flat-square&logo=node"/>
-<img src="https://img.shields.io/badge/-PHP-EAE509?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/-MySQL-EAE509?style=flat-square&logo=sql"/>  
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/>
-<img src="https://img.shields.io/badge/-django-black?style=flat-square&logo=django"/>  
+<img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/> 
 <img src="https://img.shields.io/badge/-Java-ECB390?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Eclipse IDE-ECB390?style=flat-square&logo=eclipse"/>
 <img src="https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab"/>
