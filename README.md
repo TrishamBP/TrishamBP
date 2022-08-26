@@ -1,9 +1,8 @@
-👋 Hi, I’m Trisham Bharat Patil, I am learning to be a Full Stack Web Developer and eventually a Blockchain Developer.
+👋 Hi, I’m Trisham Bharat Patil, I am a Full Stack Software Developer at AppZoy.
+I am also enrolled at IIT-B for a postgraduate degree in Blockchain Development.
 <p>Portfolio- https://trishambp-portfolio.netlify.app /<br>
 LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
-
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=cpp"/>
 <img src="https://img.shields.io/badge/-HTML5-94B49F?style=flat-square&logo=html5&logoColor=white"/>
@@ -26,7 +25,6 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-REST API-black?style=flat-square&logo=rest"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
-
 </p>
 
 <h2 align="center">
@@ -38,7 +36,6 @@ LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrishamBP&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   <img  src = "[https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27]
 </p>
-
 <p align = "center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
