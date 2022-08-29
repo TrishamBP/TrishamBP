@@ -2,9 +2,6 @@
 I am also enrolled at IIT-B for a postgraduate degree in Blockchain Development.
 <p>Portfolio- https://trishambp-portfolio.netlify.app /<br>
 LinkedIn- https://www.linkedin.com/in/trishampatil/</p>
-<p align = "center">
-   <img  src="fs.jpg" />
-</p>
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=cpp"/>
