@@ -34,6 +34,11 @@
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
+<h3 align="center">Databases :</h3>
+<div align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
