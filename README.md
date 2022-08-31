@@ -11,27 +11,20 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=cpp"/>
-<img src="https://img.shields.io/badge/-HTML5-94B49F?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-94B49F?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-94B49F?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jQuery"/>
-<img src="https://img.shields.io/badge/-Mongo DB-495C83?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Express-495C83?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/-Node JS-495C83?style=flat-square&logo=node"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm"/> 
-<img src="https://img.shields.io/badge/-Java-ECB390?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-Eclipse IDE-ECB390?style=flat-square&logo=eclipse"/>
-<img src="https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab"/>
-<img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
-<img src="https://img.shields.io/badge/-REST API-black?style=flat-square&logo=rest"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
 </p>
 
 <h2 align="center">
