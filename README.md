@@ -3,7 +3,7 @@
 <p align="center"> -🌱 I am also enrolled at IIT-B for a postgraduate degree in Blockchain Development🚀.</p>
 
 <h3 align="center">Connect with me:</h3>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/trishampatil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:trishampatil@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
