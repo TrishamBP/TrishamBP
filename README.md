@@ -16,7 +16,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%black.svg?style=for-the-badge&logo=github5&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github5&logoColor=white"/>
 
 <h2 align="center">Front End Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
