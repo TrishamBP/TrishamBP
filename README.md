@@ -18,6 +18,7 @@
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github5&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 <h2 align="center">Front End Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
