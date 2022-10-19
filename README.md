@@ -29,6 +29,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img alt="Hardhat" src="https://img.shields.io/badge/hardhat-%2320232a.svg?style=for-the-badge&logo=hardhat&logoColor=%2361DAFB"/>
 </p>
 
 
