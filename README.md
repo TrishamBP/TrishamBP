@@ -32,6 +32,7 @@
 <h2 align="center">Blockchain Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img alt="Ethereum" src="https://img.shields.io/badge/ethereum-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=%23F7DF1E"/>
 </p>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
