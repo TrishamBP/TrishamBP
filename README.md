@@ -33,6 +33,7 @@
 <p align="center">
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=%23F7DF1E"/>
+<img alt="Hardhat" src="https://img.shields.io/badge/hardhat-%2314354C.svg?style=for-the-badge&logo=hardhat&logoColor=white"/>
 </p>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
