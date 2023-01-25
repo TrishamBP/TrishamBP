@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/trishampatil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:trishampatil@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://trishampatil.com/"><img alt="Portfolio"/></a>
+  <a href="https://trishampatil.com/ "><img alt="Portfolio src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=gmail&logoColor=white""/></a>
 </div>
 
 
