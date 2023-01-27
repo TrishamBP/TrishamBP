@@ -9,7 +9,7 @@
   
 <h2 align="center">
   Portfolio Website </h2>
-  <a href="https://trishampatil.com/" target="_blank">trishampatil.com</a>
+  <a href="https://trishampatil.com/" target="_blank"><p>trishampatil.com</p></a>
 
 </div>
 
