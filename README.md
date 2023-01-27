@@ -8,9 +8,9 @@
   <a href="mailto:trishampatil@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 <h2 align="center">
-  Portfolio Website <br/>
+  Portfolio Website </h2>
   <a href="https://trishampatil.com/" target="_blank">trishampatil.com</a>
-</h2>
+
 </div>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
