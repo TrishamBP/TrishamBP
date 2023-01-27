@@ -11,7 +11,7 @@
 </div>
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://trishampatil.com/" target="_blank">soumyajit.tech</a>
+  <a href="https://trishampatil.com/" target="_blank">trishampatil.com</a>
 </h2>
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
