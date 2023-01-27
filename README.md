@@ -12,7 +12,7 @@
 <h2 align="center">
   Portfolio Website <br/>
   <a href="https://trishampatil.com/" target="_blank">soumyajit.tech</a>
-
+</h2>
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
