@@ -52,6 +52,7 @@
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=red"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%2314354C.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=red"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%2314354C.svg?style=for-the-badge&logo=docker&logoColor=blue"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </p>
 <h2 align="center">
