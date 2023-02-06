@@ -45,7 +45,7 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Gitkraken" src="https://img.shields.io/badge/kraken-%2314354C.svg?style=for-the-badge&logo=kraken&logoColor=white"/> 
+<img alt="Gitkraken" src="https://img.shields.io/badge/gitkraken-%2314354C.svg?style=for-the-badge&logo=gitkraken&logoColor=white"/> 
 </p>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
