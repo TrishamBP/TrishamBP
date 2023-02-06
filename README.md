@@ -27,8 +27,6 @@
 <img alt="Jest" src="https://img.shields.io/badge/jest-%2343853D.svg?style=for-the-badge&logo=jest&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -45,7 +43,9 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Gitkraken" src="https://img.shields.io/badge/gitkraken-%2314354C.svg?style=for-the-badge&logo=gitkraken&logoColor=white"/> 
+<img alt="Gitkraken" src="https://img.shields.io/badge/gitkraken-%2314354C.svg?style=for-the-badge&logo=gitkraken&logoColor=white"/>
+  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=red"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </p>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
