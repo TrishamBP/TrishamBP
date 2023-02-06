@@ -34,9 +34,14 @@
 <p align="center">
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img alt="Ethereum" src="https://img.shields.io/badge/ethereum-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=%23F7DF1E"/>
+<img alt="Polygon" src="https://img.shields.io/badge/polygon-%23323330.svg?style=for-the-badge&logo=polygon&logoColor=white"/>
+<img alt="Metamask" src="https://img.shields.io/badge/metamask-%23563D7C.svg?style=for-the-badge&logo=metamask&logoColor=white"/>
+<img alt="EthersJS" src="https://img.shields.io/badge/ethers-%23323330.svg?style=for-the-badge&logo=ethers&logoColor=white"/>
 <img alt="Hardhat" src="https://img.shields.io/badge/hardhat-%2314354C.svg?style=for-the-badge&logo=hardhat&logoColor=white"/>
 <img alt="Truffle" src="https://img.shields.io/badge/truffle-%2314354C.svg?style=for-the-badge&logo=truffle&logoColor=white"/>
 <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-%23323330.svg?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+<img alt="Alchemy" src="https://img.shields.io/badge/alchemy-%2314354C.svg?style=for-the-badge&logo=alchemy&logoColor=white"/>
+<img alt="Chainlink" src="https://img.shields.io/badge/chainlink-%23323330.svg?style=for-the-badge&logo=chainlink&logoColor=white"/> 
 </p>
 <h2 align="center">Tools Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
@@ -44,7 +49,9 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Gitkraken" src="https://img.shields.io/badge/gitkraken-%2314354C.svg?style=for-the-badge&logo=gitkraken&logoColor=white"/>
-  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=red"/>
+<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=red"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%2314354C.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=aws&logoColor=red"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
 </p>
 <h2 align="center">
