@@ -28,12 +28,10 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
-
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
+
 <h2 align="center">Blockchain Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
@@ -41,6 +39,11 @@
 <img alt="Hardhat" src="https://img.shields.io/badge/hardhat-%2314354C.svg?style=for-the-badge&logo=hardhat&logoColor=white"/>
 <img alt="Truffle" src="https://img.shields.io/badge/truffle-%2314354C.svg?style=for-the-badge&logo=truffle&logoColor=white"/>
 <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-%23323330.svg?style=for-the-badge&logo=hyperledger&logoColor=white"/>
+</p>
+<h2 align="center">Tools Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p align="center">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
