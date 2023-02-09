@@ -17,6 +17,7 @@
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="Solidity" src="https://img.shields.io/badge/solidity-%2black.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+ <br>
   
  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   
