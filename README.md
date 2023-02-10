@@ -31,7 +31,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src ="https://img.shields.io/badge/Next.js-%2320232a?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="Jest" src="https://img.shields.io/badge/jest-#800000.svg?style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="Jest" src="https://img.shields.io/badge/jest-maroon.svg?style=for-the-badge&logo=jest&logoColor=white"/>
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
