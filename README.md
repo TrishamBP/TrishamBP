@@ -43,37 +43,12 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="getbootstrap" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
   
-
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NextJS" src ="https://img.shields.io/badge/Next.js-%2320232a?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
-<br>
-<br>
-<img alt="Ethereum" src="https://img.shields.io/badge/ethereum-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img alt="Polygon" src="https://img.shields.io/badge/polygon-purple.svg?style=for-the-badge&logo=polygon&logoColor=white"/>
-<img alt="Metamask" src="https://img.shields.io/badge/metamask-%23563D7C.svg?style=for-the-badge&logo=metamask&logoColor=white"/>
-<img alt="EthersJS" src="https://img.shields.io/badge/ethers-%23323330.svg?style=for-the-badge&logo=ethers&logoColor=white"/>
-<img alt="Hardhat" src="https://img.shields.io/badge/hardhat-%2314354C.svg?style=for-the-badge&logo=hardhat&logoColor=white"/>
-<img alt="Truffle" src="https://img.shields.io/badge/truffle-%2314354C.svg?style=for-the-badge&logo=truffle&logoColor=white"/>
-<img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-%23323330.svg?style=for-the-badge&logo=hyperledger&logoColor=white"/>
-<img alt="Alchemy" src="https://img.shields.io/badge/alchemy-%2314354C.svg?style=for-the-badge&logo=alchemy&logoColor=white"/>
-<img alt="Chainlink" src="https://img.shields.io/badge/chainlink-%23323330.svg?style=for-the-badge&logo=chainlink&logoColor=white"/> 
-<br>
-<br>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Gitkraken" src="https://img.shields.io/badge/gitkraken-%2314354C.svg?style=for-the-badge&logo=gitkraken&logoColor=white"/>
-<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23323330.svg?style=for-the-badge&logo=gitlab&logoColor=red"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%2314354C.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%2314354C.svg?style=for-the-badge&logo=docker&logoColor=blue"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%230769AD.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
-
+ 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
