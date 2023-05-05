@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Trisham Bharat Patil. <img align="center" src="https://komarev.com/ghpvc/?username=TrishamBP" height="20" alt="TrishamBP"/></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)" /> </h3>
-<p align="center"> - 💬 Ask me about web development and blockchain development.</p>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<p align="center"> - 💬 Ask me about Web & Mobile Development and Machine Learning.</p>
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/trishampatil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
