@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Trisham Bharat Patil. <img align="center" src="https://komarev.com/ghpvc/?username=TrishamBP" height="20" alt="TrishamBP"/></h1>
+
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Senior+Full+Stack+Engineer+%3A)" /> </h3>
 <p align="center"> - 💬 Ask me about Software Enginnering, Natural Languge Programming and Machine Learning.</p>
 <h3 align="center">Connect with me:</h3>
