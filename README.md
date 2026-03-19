@@ -25,7 +25,20 @@ I’m an **AI Engineer and Backend Engineer** focused on building **production-g
 ### 🚧 Backend + AI Systems (Core)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,fastapi,nestjs,express,react,nextjs,postgres,mongodb,redis,docker,kubernetes,aws,gcp,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,nestjs,fastapi,react,nextjs,postgres,mongodb,redis,kafka,rabbitmq,docker,kubernetes,aws,gcp,tensorflow,pytorch,opencv,nginx,linux,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20Claude%20%7C%20LLaMA%20%7C%20Mistral%20%7C%20DeepSeek-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20LlamaIndex%20%7C%20CrewAI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-LoRA%20%7C%20QLoRA%20%7C%20DPO%20%7C%20RLHF-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VectorDB-FAISS%20%7C%20Weaviate%20%7C%20ChromaDB-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-ETL%20%7C%20Streaming%20%7C%20Airflow%20%7C%20Dagster-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-DL%20%7C%20NLP%20%7C%20CV%20%7C%20Time%20Series-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infra-vLLM%20%7C%20GPU%20Inference%20%7C%20Distributed%20Systems-black?style=for-the-badge"/>
 </p>
 
 ---
