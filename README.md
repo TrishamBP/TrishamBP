@@ -1,57 +1,146 @@
-<h1 align="center">👋 Hi, I'm Trisham Bharat Patil. <img align="center" src="https://komarev.com/ghpvc/?username=TrishamBP" height="20" alt="TrishamBP"/></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Senior+Software+Engineer+(AI)+%3A)" /> </h3>
-<p align="center"> - 💬 Ask me about Software Enginnering, Natural Language Programming and Gen AI.</p>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/trishampatil/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:trishampatil@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+# 👋 Hi, I'm Trisham Bharat Patil  
+![Profile Views](https://komarev.com/ghpvc/?username=TrishamBP)
 
-<h2 align="center">&nbsp;Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+### 🚀 Senior AI Software Engineer | Backend | LLM Systems
+
+💬 Ask me about **Backend Engineering, LLM Systems, Machine Learning, Time Series, Data Engineering, Distributed Systems, and AI Infrastructure**
+
+---
+
+## 🧠 About Me
+
+I’m an **AI Engineer and Backend Engineer** focused on building **production-grade AI systems, scalable backend architectures, and data pipelines**.
+
+- 🚀 Building **LLM-powered systems (RAG, Agents, Structured Generation)**
+- ⚙️ Designing **high-throughput backend & microservices architectures**
+- 📊 Working on **data engineering pipelines (ETL, streaming, warehousing)**
+- 🧠 Deep into **LLM fine-tuning (LoRA/QLoRA), inference optimization (vLLM)**
+- ☁️ Deploying systems on **AWS & GCP with CI/CD pipelines**
+- 🧪 Exploring **AI infra (GPU systems, local LLM clusters, distributed training)**
+
+---
+
+## ⚙️ Technology Stack
+
+### 🚧 Backend + AI Systems (Core)
+
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket-io" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="panda" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tesnsorflow" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-  <br>
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-<br>
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TrishamBP&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-  <img  src = "[https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27]
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,fastapi,nestjs,express,react,nextjs,postgres,mongodb,redis,docker,kubernetes,aws,gcp,tensorflow,pytorch" />
 </p>
-<p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
+---
+
+### 🧠 AI / LLM / GenAI
+
+- Transformers, LLMs (GPT, Claude, Gemini, LLaMA, DeepSeek)
+- RAG Pipelines, LangChain, LlamaIndex, CrewAI
+- Fine-tuning: LoRA, QLoRA, RLHF, DPO
+- HuggingFace, vLLM, OpenRouter
+- Vector DBs: FAISS, Weaviate, ChromaDB
+
+---
+
+### ⚙️ Backend & Distributed Systems
+
+- Node.js, Express.js, NestJS, FastAPI (async)
+- REST, GraphQL, gRPC, WebSockets
+- Microservices Architecture
+- Event-driven systems with **Kafka / RabbitMQ**
+- Async processing with **Celery**
+
+---
+
+### 📊 Data Engineering
+
+- ETL / ELT Pipelines
+- Data Ingestion & Streaming Systems
+- Apache Airflow, Dagster
+- BigQuery, Snowflake, DuckDB
+- Data Lakes, Schema Evolution, Incremental Pipelines
+
+---
+
+### 🗄️ Databases
+
+- PostgreSQL, MongoDB, DynamoDB
+- Cassandra, ScyllaDB, Neo4j
+- Redis, Memcached
+
+---
+
+### ☁️ Cloud & DevOps (Production Systems)
+
+- **AWS:** EC2, S3, Lambda, ECR, ECS, SQS, RDS, CloudWatch, Bedrock, SageMaker
+- **GCP:** Cloud Run, GCS
+- Docker, Kubernetes
+- CI/CD: GitHub Actions, Jenkins, GitLab CI
+- Monitoring: Prometheus, Grafana, OpenTelemetry
+
+---
+
+## 🚀 What I’ve Built (Real Systems)
+
+### 🔹 AI + LLM Systems
+- RAG-based recruiter assistant with **semantic retrieval + structured outputs**
+- CV parsing pipeline using **LLMs + hybrid NLP + OCR (Arabic → English)**
+- Fine-tuned LLMs using **LoRA / QLoRA on domain datasets**
+- Multi-model inference pipelines (Qwen, Mistral, LLaMA)
+
+---
+
+### 🔹 Backend + Distributed Systems
+- High-throughput microservices using **FastAPI + Node.js**
+- Async job processing with **Celery + RabbitMQ**
+- Real-time systems with **Redis + WebSockets**
+- Designed **fault-tolerant AI pipelines**
+
+---
+
+### 🔹 Data Engineering
+- Built **end-to-end ingestion pipelines** (batch + streaming)
+- Designed **data warehouses (BigQuery / Snowflake / DuckDB)**
+- Implemented **incremental + backfill pipelines**
+
+---
+
+### 🔹 Cloud Architecture (AWS/GCP)
+
+- 🚀 Deployed GPU inference systems using **vLLM on AWS (G5/L4 instances)**
+- ⚡ Built **serverless pipelines with AWS Lambda (high concurrency)**
+- 📦 Containerized services using **Docker + Kubernetes**
+- 🔁 Designed **CI/CD pipelines for AI deployments**
+- 📊 Monitoring + logging with **CloudWatch + Prometheus + Grafana**
+
+---
+
+## 📊 GitHub Stats
+
+![Trisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrishamBP&show_icons=true&theme=radical&line_height=27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrishamBP&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrishamBP&theme=radical)
+
+---
+
+## 📈 What My GitHub Stats Say
+
+- 🧠 Heavy focus on **AI/ML (Jupyter + Python dominance)**
+- ⚙️ Backend work visible via **system projects (not just commits)**
+- 📊 Lower commit count → indicates **deep work vs shallow commits**
+- 🚀 Strong alignment with **research + production AI systems**
+
+---
+
+## 🧩 Engineering Philosophy
+
+- Build **systems, not scripts**
+- Optimize for **scale, latency, and reliability**
+- Prefer **simple architectures over unnecessary complexity**
+- Focus on **real-world impact, not toy projects**
+
+---
+
+## ⭐ If you like my work
+
+Give a ⭐ to repositories and feel free to connect!
