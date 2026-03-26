@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Trisham Bharat Patil  
 ![Profile Views](https://komarev.com/ghpvc/?username=TrishamBP)
 
-### 🚀 Senior Software Engineer | Backend | LLM Systems
+### 🚀 Senior Software Engineer | Backend Engineering | LLM Systems
 
 💬 Ask me about **Backend Engineering, LLM Systems, Machine Learning, Time Series, Data Engineering, Distributed Systems, and AI Infrastructure**
 
